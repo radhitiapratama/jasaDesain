@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    background: rgb(23, 27, 64);
+    color: rgb(255, 255, 255, .8);
+    padding: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+}
